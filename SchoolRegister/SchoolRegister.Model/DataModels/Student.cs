@@ -7,7 +7,7 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace SchoolRegister.Model.DataModels
 {
-    internal class Student : User
+    public class Student : User
     {
         public Group Group { get; set; }
         public int? GroupId { get; set; }

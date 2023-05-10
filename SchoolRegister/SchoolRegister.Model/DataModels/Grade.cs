@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SchoolRegister.Model.DataModels
 {
-    internal class Grade
+    public class Grade
     {
         public DateTime DateOfIssue { get; set; }
         public GradeScale GradeValue { get; set; }

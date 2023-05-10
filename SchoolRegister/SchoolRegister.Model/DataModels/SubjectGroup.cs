@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SchoolRegister.Model.DataModels
 {
-    internal class SubjectGroup
+    public class SubjectGroup
     {
         public Subject Subject { get; set; }
         public int SubjectId { get; set; }
