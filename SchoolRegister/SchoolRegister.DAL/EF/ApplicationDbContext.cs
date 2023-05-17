@@ -20,11 +20,14 @@ namespace SchoolRegister.DAL.EF
         public DbSet<Subject> Subjects { get; set; }
         public DbSet<SubjectGroup> SubjectGroups { get; set; }
 
-        public ApplicationDbContext(DbContextOptionsBuilder optionsBuilder)
+        public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options): base(options)
+        {
+        }
+
+        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             base.OnConfiguring(optionsBuilder);
-            //configuration commands
-            optionsBuilder.UseLazyLoadingProxies(); //enable lazy loading proxies
+            optionsBuilder.UseLazyLoadingProxies();
         }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
