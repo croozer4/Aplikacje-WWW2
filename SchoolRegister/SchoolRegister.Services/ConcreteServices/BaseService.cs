@@ -1,5 +1,5 @@
 ﻿using AutoMapper;
-using Castle.Core.Logging;
+using Microsoft.Extensions.Logging;
 using SchoolRegister.DAL.EF;
 
 namespace SchoolRegister.Services.ConcreteServices
