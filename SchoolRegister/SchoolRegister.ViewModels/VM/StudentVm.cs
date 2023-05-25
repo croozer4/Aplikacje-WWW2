@@ -8,5 +8,7 @@ namespace SchoolRegister.ViewModels.VM
 {
     public class StudentVm
     {
+        public string ParentName { get; set; } = null!;
+        public string GroupName { get; set; } = null!;
     }
 }
