@@ -1,0 +1,416 @@
+﻿++Rozwiązanie „SchoolRegister” ‎ (6 z 6 projektów)
+i:{00000000-0000-0000-0000-000000000000}:SchoolRegister.sln
+++SchoolRegister.Model
+i:{00000000-0000-0000-0000-000000000000}:SchoolRegister.Model
+i:{8bf29f30-bbfb-4208-b633-fc5eeb052a2e}:c:\users\konrad\desktop\pliki na studia\semestr 6\awww\aplikacje-www2\schoolregister\schoolregister.model\bin\debug\net6.0\schoolregister.model.dll
+i:{7b590d29-c1ef-4b3b-ae29-8e938f523911}:c:\users\konrad\desktop\pliki na studia\semestr 6\awww\aplikacje-www2\schoolregister\schoolregister.model\bin\debug\net6.0\schoolregister.model.dll
+i:{c27455e3-700b-472b-9f28-66a371c0380c}:c:\users\konrad\desktop\pliki na studia\semestr 6\awww\aplikacje-www2\schoolregister\schoolregister.model\bin\debug\net6.0\schoolregister.model.dll
+i:{4d9fe7ac-8fe1-452e-925b-a252bdfec75e}:c:\users\konrad\desktop\pliki na studia\semestr 6\awww\aplikacje-www2\schoolregister\schoolregister.model\schoolregister.model.csproj
+i:{ce6e9b59-33f6-4fdc-a511-7524019330ef}:c:\users\konrad\desktop\pliki na studia\semestr 6\awww\aplikacje-www2\schoolregister\schoolregister.model\bin\debug\net6.0\schoolregister.model.dll
+++Zależności
+i:{5d48329f-d765-4fb7-9f51-a925194bf178}:>638
+i:{8bf29f30-bbfb-4208-b633-fc5eeb052a2e}:>641
+i:{7b590d29-c1ef-4b3b-ae29-8e938f523911}:>637
+i:{c27455e3-700b-472b-9f28-66a371c0380c}:>639
+i:{4d9fe7ac-8fe1-452e-925b-a252bdfec75e}:>640
+i:{ce6e9b59-33f6-4fdc-a511-7524019330ef}:>871
+++DataModels
+i:{5d48329f-d765-4fb7-9f51-a925194bf178}:c:\users\konrad\desktop\pliki na studia\semestr 6\awww\aplikacje-www2\schoolregister\schoolregister.model\datamodels\
+++Grade.cs
+i:{5d48329f-d765-4fb7-9f51-a925194bf178}:c:\users\konrad\desktop\pliki na studia\semestr 6\awww\aplikacje-www2\schoolregister\schoolregister.model\datamodels\grade.cs
+++GradeScale.cs
+i:{5d48329f-d765-4fb7-9f51-a925194bf178}:c:\users\konrad\desktop\pliki na studia\semestr 6\awww\aplikacje-www2\schoolregister\schoolregister.model\datamodels\gradescale.cs
+++Group.cs
+i:{5d48329f-d765-4fb7-9f51-a925194bf178}:c:\users\konrad\desktop\pliki na studia\semestr 6\awww\aplikacje-www2\schoolregister\schoolregister.model\datamodels\group.cs
+++Parent.cs
+i:{5d48329f-d765-4fb7-9f51-a925194bf178}:c:\users\konrad\desktop\pliki na studia\semestr 6\awww\aplikacje-www2\schoolregister\schoolregister.model\datamodels\parent.cs
+++Role.cs
+i:{5d48329f-d765-4fb7-9f51-a925194bf178}:c:\users\konrad\desktop\pliki na studia\semestr 6\awww\aplikacje-www2\schoolregister\schoolregister.model\datamodels\role.cs
+++RoleValue.cs
+i:{5d48329f-d765-4fb7-9f51-a925194bf178}:c:\users\konrad\desktop\pliki na studia\semestr 6\awww\aplikacje-www2\schoolregister\schoolregister.model\datamodels\rolevalue.cs
+++Student.cs
+i:{5d48329f-d765-4fb7-9f51-a925194bf178}:c:\users\konrad\desktop\pliki na studia\semestr 6\awww\aplikacje-www2\schoolregister\schoolregister.model\datamodels\student.cs
+++Subject.cs
+i:{5d48329f-d765-4fb7-9f51-a925194bf178}:c:\users\konrad\desktop\pliki na studia\semestr 6\awww\aplikacje-www2\schoolregister\schoolregister.model\datamodels\subject.cs
+++SubjectGroup.cs
+i:{5d48329f-d765-4fb7-9f51-a925194bf178}:c:\users\konrad\desktop\pliki na studia\semestr 6\awww\aplikacje-www2\schoolregister\schoolregister.model\datamodels\subjectgroup.cs
+++Teacher.cs
+i:{5d48329f-d765-4fb7-9f51-a925194bf178}:c:\users\konrad\desktop\pliki na studia\semestr 6\awww\aplikacje-www2\schoolregister\schoolregister.model\datamodels\teacher.cs
+++User.cs
+i:{5d48329f-d765-4fb7-9f51-a925194bf178}:c:\users\konrad\desktop\pliki na studia\semestr 6\awww\aplikacje-www2\schoolregister\schoolregister.model\datamodels\user.cs
+++Analizatory
+i:{5d48329f-d765-4fb7-9f51-a925194bf178}:analizatory
+i:{8bf29f30-bbfb-4208-b633-fc5eeb052a2e}:analizatory
+i:{7b590d29-c1ef-4b3b-ae29-8e938f523911}:analizatory
+i:{c27455e3-700b-472b-9f28-66a371c0380c}:analizatory
+i:{4d9fe7ac-8fe1-452e-925b-a252bdfec75e}:analizatory
+i:{ce6e9b59-33f6-4fdc-a511-7524019330ef}:analizatory
+++Pakiety
+i:{5d48329f-d765-4fb7-9f51-a925194bf178}:pakiety
+i:{8bf29f30-bbfb-4208-b633-fc5eeb052a2e}:pakiety
+i:{7b590d29-c1ef-4b3b-ae29-8e938f523911}:pakiety
+i:{ce6e9b59-33f6-4fdc-a511-7524019330ef}:pakiety
+++Struktury
+i:{5d48329f-d765-4fb7-9f51-a925194bf178}:struktury
+i:{8bf29f30-bbfb-4208-b633-fc5eeb052a2e}:struktury
+i:{7b590d29-c1ef-4b3b-ae29-8e938f523911}:struktury
+i:{c27455e3-700b-472b-9f28-66a371c0380c}:struktury
+i:{4d9fe7ac-8fe1-452e-925b-a252bdfec75e}:struktury
+i:{ce6e9b59-33f6-4fdc-a511-7524019330ef}:struktury
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{5d48329f-d765-4fb7-9f51-a925194bf178}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{8bf29f30-bbfb-4208-b633-fc5eeb052a2e}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{7b590d29-c1ef-4b3b-ae29-8e938f523911}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{c27455e3-700b-472b-9f28-66a371c0380c}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{4d9fe7ac-8fe1-452e-925b-a252bdfec75e}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{ce6e9b59-33f6-4fdc-a511-7524019330ef}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{5d48329f-d765-4fb7-9f51-a925194bf178}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{8bf29f30-bbfb-4208-b633-fc5eeb052a2e}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{7b590d29-c1ef-4b3b-ae29-8e938f523911}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{c27455e3-700b-472b-9f28-66a371c0380c}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{4d9fe7ac-8fe1-452e-925b-a252bdfec75e}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{ce6e9b59-33f6-4fdc-a511-7524019330ef}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{5d48329f-d765-4fb7-9f51-a925194bf178}:c:\users\konrad\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{8bf29f30-bbfb-4208-b633-fc5eeb052a2e}:c:\users\konrad\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{7b590d29-c1ef-4b3b-ae29-8e938f523911}:c:\users\konrad\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.3\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{c27455e3-700b-472b-9f28-66a371c0380c}:c:\users\konrad\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{4d9fe7ac-8fe1-452e-925b-a252bdfec75e}:c:\users\konrad\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.3\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{ce6e9b59-33f6-4fdc-a511-7524019330ef}:c:\users\konrad\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.3\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++System.Text.Json.SourceGeneration
+i:{5d48329f-d765-4fb7-9f51-a925194bf178}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.2\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{8bf29f30-bbfb-4208-b633-fc5eeb052a2e}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.2\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{7b590d29-c1ef-4b3b-ae29-8e938f523911}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.2\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{c27455e3-700b-472b-9f28-66a371c0380c}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.2\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{4d9fe7ac-8fe1-452e-925b-a252bdfec75e}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.2\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{ce6e9b59-33f6-4fdc-a511-7524019330ef}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.2\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.Extensions.Identity.Stores (6.0.16)
+i:{5d48329f-d765-4fb7-9f51-a925194bf178}:>934
+i:{ce6e9b59-33f6-4fdc-a511-7524019330ef}:>961
+++Microsoft.NETCore.App
+i:{5d48329f-d765-4fb7-9f51-a925194bf178}:c:\users\konrad\desktop\pliki na studia\semestr 6\awww\aplikacje-www2\schoolregister\schoolregister.model\microsoft.netcore.app
+i:{8bf29f30-bbfb-4208-b633-fc5eeb052a2e}:c:\users\konrad\desktop\pliki na studia\semestr 6\awww\aplikacje-www2\schoolregister\schoolregister.dal\microsoft.netcore.app
+i:{7b590d29-c1ef-4b3b-ae29-8e938f523911}:c:\users\konrad\desktop\pliki na studia\semestr 6\awww\aplikacje-www2\schoolregister\schoolregister.services\microsoft.netcore.app
+i:{c27455e3-700b-472b-9f28-66a371c0380c}:c:\users\konrad\desktop\pliki na studia\semestr 6\awww\aplikacje-www2\schoolregister\schoolregister.viewmodels\microsoft.netcore.app
+i:{4d9fe7ac-8fe1-452e-925b-a252bdfec75e}:c:\users\konrad\desktop\pliki na studia\semestr 6\awww\aplikacje-www2\schoolregister\schoolregister.tests\microsoft.netcore.app
+i:{ce6e9b59-33f6-4fdc-a511-7524019330ef}:c:\users\konrad\desktop\pliki na studia\semestr 6\awww\aplikacje-www2\schoolregister\schoolregister.web\microsoft.netcore.app
+++SchoolRegister.DAL
+i:{00000000-0000-0000-0000-000000000000}:SchoolRegister.DAL
+i:{7b590d29-c1ef-4b3b-ae29-8e938f523911}:c:\users\konrad\desktop\pliki na studia\semestr 6\awww\aplikacje-www2\schoolregister\schoolregister.dal\bin\debug\net6.0\schoolregister.dal.dll
+i:{4d9fe7ac-8fe1-452e-925b-a252bdfec75e}:c:\users\konrad\desktop\pliki na studia\semestr 6\awww\aplikacje-www2\schoolregister\schoolregister.dal\schoolregister.dal.csproj
+i:{ce6e9b59-33f6-4fdc-a511-7524019330ef}:c:\users\konrad\desktop\pliki na studia\semestr 6\awww\aplikacje-www2\schoolregister\schoolregister.dal\bin\debug\net6.0\schoolregister.dal.dll
+++EF
+i:{8bf29f30-bbfb-4208-b633-fc5eeb052a2e}:c:\users\konrad\desktop\pliki na studia\semestr 6\awww\aplikacje-www2\schoolregister\schoolregister.dal\ef\
+++ApplicationDbContext.cs
+i:{8bf29f30-bbfb-4208-b633-fc5eeb052a2e}:c:\users\konrad\desktop\pliki na studia\semestr 6\awww\aplikacje-www2\schoolregister\schoolregister.dal\ef\applicationdbcontext.cs
+++Migrations
+i:{8bf29f30-bbfb-4208-b633-fc5eeb052a2e}:c:\users\konrad\desktop\pliki na studia\semestr 6\awww\aplikacje-www2\schoolregister\schoolregister.dal\migrations\
+++Class1.cs
+i:{8bf29f30-bbfb-4208-b633-fc5eeb052a2e}:c:\users\konrad\desktop\pliki na studia\semestr 6\awww\aplikacje-www2\schoolregister\schoolregister.dal\class1.cs
+i:{7b590d29-c1ef-4b3b-ae29-8e938f523911}:c:\users\konrad\desktop\pliki na studia\semestr 6\awww\aplikacje-www2\schoolregister\schoolregister.services\class1.cs
+i:{c27455e3-700b-472b-9f28-66a371c0380c}:c:\users\konrad\desktop\pliki na studia\semestr 6\awww\aplikacje-www2\schoolregister\schoolregister.viewmodels\class1.cs
+i:{4d9fe7ac-8fe1-452e-925b-a252bdfec75e}:c:\users\konrad\desktop\pliki na studia\semestr 6\awww\aplikacje-www2\schoolregister\schoolregister.tests\class1.cs
+++Projekty
+i:{8bf29f30-bbfb-4208-b633-fc5eeb052a2e}:projekty
+i:{7b590d29-c1ef-4b3b-ae29-8e938f523911}:projekty
+i:{c27455e3-700b-472b-9f28-66a371c0380c}:projekty
+i:{4d9fe7ac-8fe1-452e-925b-a252bdfec75e}:projekty
+i:{ce6e9b59-33f6-4fdc-a511-7524019330ef}:projekty
+++20230517084200_migracja1.cs
+i:{8bf29f30-bbfb-4208-b633-fc5eeb052a2e}:c:\users\konrad\desktop\pliki na studia\semestr 6\awww\aplikacje-www2\schoolregister\schoolregister.dal\migrations\20230517084200_migracja1.cs
+++ApplicationDbContextModelSnapshot.cs
+i:{8bf29f30-bbfb-4208-b633-fc5eeb052a2e}:c:\users\konrad\desktop\pliki na studia\semestr 6\awww\aplikacje-www2\schoolregister\schoolregister.dal\migrations\applicationdbcontextmodelsnapshot.cs
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{8bf29f30-bbfb-4208-b633-fc5eeb052a2e}:c:\users\konrad\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.16\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{7b590d29-c1ef-4b3b-ae29-8e938f523911}:c:\users\konrad\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.16\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{4d9fe7ac-8fe1-452e-925b-a252bdfec75e}:c:\users\konrad\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.16\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{ce6e9b59-33f6-4fdc-a511-7524019330ef}:c:\users\konrad\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.16\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.AspNetCore.Identity.EntityFrameworkCore (6.0.16)
+i:{8bf29f30-bbfb-4208-b633-fc5eeb052a2e}:>949
+i:{ce6e9b59-33f6-4fdc-a511-7524019330ef}:>957
+++Microsoft.EntityFrameworkCore (6.0.16)
+i:{8bf29f30-bbfb-4208-b633-fc5eeb052a2e}:>937
+i:{ce6e9b59-33f6-4fdc-a511-7524019330ef}:>945
+++Microsoft.EntityFrameworkCore.Design (6.0.16)
+i:{8bf29f30-bbfb-4208-b633-fc5eeb052a2e}:>943
+++Microsoft.EntityFrameworkCore.Proxies (6.0.16)
+i:{8bf29f30-bbfb-4208-b633-fc5eeb052a2e}:>946
+++Microsoft.EntityFrameworkCore.SqlServer (6.0.16)
+i:{8bf29f30-bbfb-4208-b633-fc5eeb052a2e}:>940
+i:{ce6e9b59-33f6-4fdc-a511-7524019330ef}:>947
+++20230517084200_migracja1.Designer.cs
+i:{8bf29f30-bbfb-4208-b633-fc5eeb052a2e}:c:\users\konrad\desktop\pliki na studia\semestr 6\awww\aplikacje-www2\schoolregister\schoolregister.dal\migrations\20230517084200_migracja1.designer.cs
+++SchoolRegister.Services
+i:{00000000-0000-0000-0000-000000000000}:SchoolRegister.Services
+i:{4d9fe7ac-8fe1-452e-925b-a252bdfec75e}:c:\users\konrad\desktop\pliki na studia\semestr 6\awww\aplikacje-www2\schoolregister\schoolregister.services\schoolregister.services.csproj
+i:{ce6e9b59-33f6-4fdc-a511-7524019330ef}:c:\users\konrad\desktop\pliki na studia\semestr 6\awww\aplikacje-www2\schoolregister\schoolregister.services\bin\debug\net6.0\schoolregister.services.dll
+++ConcreteServices
+i:{7b590d29-c1ef-4b3b-ae29-8e938f523911}:c:\users\konrad\desktop\pliki na studia\semestr 6\awww\aplikacje-www2\schoolregister\schoolregister.services\concreteservices\
+++BaseService.cs
+i:{7b590d29-c1ef-4b3b-ae29-8e938f523911}:c:\users\konrad\desktop\pliki na studia\semestr 6\awww\aplikacje-www2\schoolregister\schoolregister.services\concreteservices\baseservice.cs
+++SubjectService.cs
+i:{7b590d29-c1ef-4b3b-ae29-8e938f523911}:c:\users\konrad\desktop\pliki na studia\semestr 6\awww\aplikacje-www2\schoolregister\schoolregister.services\concreteservices\subjectservice.cs
+++Configuration
+i:{7b590d29-c1ef-4b3b-ae29-8e938f523911}:c:\users\konrad\desktop\pliki na studia\semestr 6\awww\aplikacje-www2\schoolregister\schoolregister.services\configuration\
+++Interfaces
+i:{7b590d29-c1ef-4b3b-ae29-8e938f523911}:c:\users\konrad\desktop\pliki na studia\semestr 6\awww\aplikacje-www2\schoolregister\schoolregister.services\interfaces\
+++ISubjectService.cs
+i:{7b590d29-c1ef-4b3b-ae29-8e938f523911}:c:\users\konrad\desktop\pliki na studia\semestr 6\awww\aplikacje-www2\schoolregister\schoolregister.services\interfaces\isubjectservice.cs
+++AutoMapperProfiles
+i:{7b590d29-c1ef-4b3b-ae29-8e938f523911}:c:\users\konrad\desktop\pliki na studia\semestr 6\awww\aplikacje-www2\schoolregister\schoolregister.services\configuration\automapperprofiles\
+++Microsoft.AspNetCore.App.Analyzers
+i:{7b590d29-c1ef-4b3b-ae29-8e938f523911}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.2\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+i:{4d9fe7ac-8fe1-452e-925b-a252bdfec75e}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.2\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+i:{ce6e9b59-33f6-4fdc-a511-7524019330ef}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.2\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{7b590d29-c1ef-4b3b-ae29-8e938f523911}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.2\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+i:{4d9fe7ac-8fe1-452e-925b-a252bdfec75e}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.2\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+i:{ce6e9b59-33f6-4fdc-a511-7524019330ef}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.2\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++AutoMapper (12.0.1)
+i:{7b590d29-c1ef-4b3b-ae29-8e938f523911}:>941
+i:{ce6e9b59-33f6-4fdc-a511-7524019330ef}:>958
+++AutoMapper.Extensions.Microsoft.DependencyInjection (12.0.1)
+i:{7b590d29-c1ef-4b3b-ae29-8e938f523911}:>939
+i:{ce6e9b59-33f6-4fdc-a511-7524019330ef}:>951
+++Microsoft.AspNetCore.Identity.UI (6.0.16)
+i:{7b590d29-c1ef-4b3b-ae29-8e938f523911}:>944
+i:{ce6e9b59-33f6-4fdc-a511-7524019330ef}:>960
+++Microsoft.Extensions.Logging.Abstractions (6.0.3)
+i:{7b590d29-c1ef-4b3b-ae29-8e938f523911}:>935
+++SchoolRegister.ViewModels
+i:{7b590d29-c1ef-4b3b-ae29-8e938f523911}:c:\users\konrad\desktop\pliki na studia\semestr 6\awww\aplikacje-www2\schoolregister\schoolregister.viewmodels\bin\debug\net6.0\schoolregister.viewmodels.dll
+i:{00000000-0000-0000-0000-000000000000}:SchoolRegister.ViewModels
+i:{ce6e9b59-33f6-4fdc-a511-7524019330ef}:c:\users\konrad\desktop\pliki na studia\semestr 6\awww\aplikacje-www2\schoolregister\schoolregister.viewmodels\bin\debug\net6.0\schoolregister.viewmodels.dll
+++MainProfile.cs
+i:{7b590d29-c1ef-4b3b-ae29-8e938f523911}:c:\users\konrad\desktop\pliki na studia\semestr 6\awww\aplikacje-www2\schoolregister\schoolregister.services\configuration\automapperprofiles\mainprofile.cs
+++VM
+i:{c27455e3-700b-472b-9f28-66a371c0380c}:c:\users\konrad\desktop\pliki na studia\semestr 6\awww\aplikacje-www2\schoolregister\schoolregister.viewmodels\vm\
+++AddOrUpdateSubjectVm.cs
+i:{c27455e3-700b-472b-9f28-66a371c0380c}:c:\users\konrad\desktop\pliki na studia\semestr 6\awww\aplikacje-www2\schoolregister\schoolregister.viewmodels\vm\addorupdatesubjectvm.cs
+++ErrorViewModel.cs
+i:{c27455e3-700b-472b-9f28-66a371c0380c}:c:\users\konrad\desktop\pliki na studia\semestr 6\awww\aplikacje-www2\schoolregister\schoolregister.viewmodels\vm\errorviewmodel.cs
+++GroupVm.cs
+i:{c27455e3-700b-472b-9f28-66a371c0380c}:c:\users\konrad\desktop\pliki na studia\semestr 6\awww\aplikacje-www2\schoolregister\schoolregister.viewmodels\vm\groupvm.cs
+++StudentVm.cs
+i:{c27455e3-700b-472b-9f28-66a371c0380c}:c:\users\konrad\desktop\pliki na studia\semestr 6\awww\aplikacje-www2\schoolregister\schoolregister.viewmodels\vm\studentvm.cs
+++SubjectVm.cs
+i:{c27455e3-700b-472b-9f28-66a371c0380c}:c:\users\konrad\desktop\pliki na studia\semestr 6\awww\aplikacje-www2\schoolregister\schoolregister.viewmodels\vm\subjectvm.cs
+++SchoolRegister.Tests
+i:{00000000-0000-0000-0000-000000000000}:SchoolRegister.Tests
+++Extensions.cs
+i:{4d9fe7ac-8fe1-452e-925b-a252bdfec75e}:c:\users\konrad\desktop\pliki na studia\semestr 6\awww\aplikacje-www2\schoolregister\schoolregister.tests\extensions.cs
+++Startup.cs
+i:{4d9fe7ac-8fe1-452e-925b-a252bdfec75e}:c:\users\konrad\desktop\pliki na studia\semestr 6\awww\aplikacje-www2\schoolregister\schoolregister.tests\startup.cs
+++SchoolRegister.Web
+i:{00000000-0000-0000-0000-000000000000}:SchoolRegister.Web
+++Connected Services 
+i:{ce6e9b59-33f6-4fdc-a511-7524019330ef}:>872
+++Properties
+i:{ce6e9b59-33f6-4fdc-a511-7524019330ef}:c:\users\konrad\desktop\pliki na studia\semestr 6\awww\aplikacje-www2\schoolregister\schoolregister.web\properties\
+++wwwroot
+i:{ce6e9b59-33f6-4fdc-a511-7524019330ef}:c:\users\konrad\desktop\pliki na studia\semestr 6\awww\aplikacje-www2\schoolregister\schoolregister.web\wwwroot\
+++Areas
+i:{ce6e9b59-33f6-4fdc-a511-7524019330ef}:c:\users\konrad\desktop\pliki na studia\semestr 6\awww\aplikacje-www2\schoolregister\schoolregister.web\areas\
+++Identity
+i:{ce6e9b59-33f6-4fdc-a511-7524019330ef}:c:\users\konrad\desktop\pliki na studia\semestr 6\awww\aplikacje-www2\schoolregister\schoolregister.web\areas\identity\
+++Pages
+i:{ce6e9b59-33f6-4fdc-a511-7524019330ef}:c:\users\konrad\desktop\pliki na studia\semestr 6\awww\aplikacje-www2\schoolregister\schoolregister.web\areas\identity\pages\
+++_ViewStart.cshtml
+i:{ce6e9b59-33f6-4fdc-a511-7524019330ef}:c:\users\konrad\desktop\pliki na studia\semestr 6\awww\aplikacje-www2\schoolregister\schoolregister.web\areas\identity\pages\_viewstart.cshtml
+i:{ce6e9b59-33f6-4fdc-a511-7524019330ef}:c:\users\konrad\desktop\pliki na studia\semestr 6\awww\aplikacje-www2\schoolregister\schoolregister.web\views\_viewstart.cshtml
+++Controllers
+i:{ce6e9b59-33f6-4fdc-a511-7524019330ef}:c:\users\konrad\desktop\pliki na studia\semestr 6\awww\aplikacje-www2\schoolregister\schoolregister.web\controllers\
+++HomeController.cs
+i:{ce6e9b59-33f6-4fdc-a511-7524019330ef}:c:\users\konrad\desktop\pliki na studia\semestr 6\awww\aplikacje-www2\schoolregister\schoolregister.web\controllers\homecontroller.cs
+++Views
+i:{ce6e9b59-33f6-4fdc-a511-7524019330ef}:c:\users\konrad\desktop\pliki na studia\semestr 6\awww\aplikacje-www2\schoolregister\schoolregister.web\views\
+++Home
+i:{ce6e9b59-33f6-4fdc-a511-7524019330ef}:c:\users\konrad\desktop\pliki na studia\semestr 6\awww\aplikacje-www2\schoolregister\schoolregister.web\views\home\
+++Index.cshtml
+i:{ce6e9b59-33f6-4fdc-a511-7524019330ef}:c:\users\konrad\desktop\pliki na studia\semestr 6\awww\aplikacje-www2\schoolregister\schoolregister.web\views\home\index.cshtml
+++Privacy.cshtml
+i:{ce6e9b59-33f6-4fdc-a511-7524019330ef}:c:\users\konrad\desktop\pliki na studia\semestr 6\awww\aplikacje-www2\schoolregister\schoolregister.web\views\home\privacy.cshtml
+++Shared
+i:{ce6e9b59-33f6-4fdc-a511-7524019330ef}:c:\users\konrad\desktop\pliki na studia\semestr 6\awww\aplikacje-www2\schoolregister\schoolregister.web\views\shared\
+++_Layout.cshtml
+i:{ce6e9b59-33f6-4fdc-a511-7524019330ef}:c:\users\konrad\desktop\pliki na studia\semestr 6\awww\aplikacje-www2\schoolregister\schoolregister.web\views\shared\_layout.cshtml
+++_LoginPartial.cshtml
+i:{ce6e9b59-33f6-4fdc-a511-7524019330ef}:c:\users\konrad\desktop\pliki na studia\semestr 6\awww\aplikacje-www2\schoolregister\schoolregister.web\views\shared\_loginpartial.cshtml
+++_ValidationScriptsPartial.cshtml
+i:{ce6e9b59-33f6-4fdc-a511-7524019330ef}:c:\users\konrad\desktop\pliki na studia\semestr 6\awww\aplikacje-www2\schoolregister\schoolregister.web\views\shared\_validationscriptspartial.cshtml
+++Error.cshtml
+i:{ce6e9b59-33f6-4fdc-a511-7524019330ef}:c:\users\konrad\desktop\pliki na studia\semestr 6\awww\aplikacje-www2\schoolregister\schoolregister.web\views\shared\error.cshtml
+++_ViewImports.cshtml
+i:{ce6e9b59-33f6-4fdc-a511-7524019330ef}:c:\users\konrad\desktop\pliki na studia\semestr 6\awww\aplikacje-www2\schoolregister\schoolregister.web\views\_viewimports.cshtml
+++appsettings.json
+i:{ce6e9b59-33f6-4fdc-a511-7524019330ef}:c:\users\konrad\desktop\pliki na studia\semestr 6\awww\aplikacje-www2\schoolregister\schoolregister.web\appsettings.json
+++Program.cs
+i:{ce6e9b59-33f6-4fdc-a511-7524019330ef}:c:\users\konrad\desktop\pliki na studia\semestr 6\awww\aplikacje-www2\schoolregister\schoolregister.web\program.cs
+++Lokalna baza danych SQL Server Express (lokalna) (ConnectionStrings:DefaultConnection)
+i:{ce6e9b59-33f6-4fdc-a511-7524019330ef}:>974
+++launchSettings.json
+i:{ce6e9b59-33f6-4fdc-a511-7524019330ef}:c:\users\konrad\desktop\pliki na studia\semestr 6\awww\aplikacje-www2\schoolregister\schoolregister.web\properties\launchsettings.json
+++serviceDependencies.json
+i:{ce6e9b59-33f6-4fdc-a511-7524019330ef}:c:\users\konrad\desktop\pliki na studia\semestr 6\awww\aplikacje-www2\schoolregister\schoolregister.web\properties\servicedependencies.json
+++css
+i:{ce6e9b59-33f6-4fdc-a511-7524019330ef}:c:\users\konrad\desktop\pliki na studia\semestr 6\awww\aplikacje-www2\schoolregister\schoolregister.web\wwwroot\css\
+i:{ce6e9b59-33f6-4fdc-a511-7524019330ef}:c:\users\konrad\desktop\pliki na studia\semestr 6\awww\aplikacje-www2\schoolregister\schoolregister.web\wwwroot\lib\bootstrap\dist\css\
+++js
+i:{ce6e9b59-33f6-4fdc-a511-7524019330ef}:c:\users\konrad\desktop\pliki na studia\semestr 6\awww\aplikacje-www2\schoolregister\schoolregister.web\wwwroot\js\
+i:{ce6e9b59-33f6-4fdc-a511-7524019330ef}:c:\users\konrad\desktop\pliki na studia\semestr 6\awww\aplikacje-www2\schoolregister\schoolregister.web\wwwroot\lib\bootstrap\dist\js\
+++lib
+i:{ce6e9b59-33f6-4fdc-a511-7524019330ef}:c:\users\konrad\desktop\pliki na studia\semestr 6\awww\aplikacje-www2\schoolregister\schoolregister.web\wwwroot\lib\
+++favicon.ico
+i:{ce6e9b59-33f6-4fdc-a511-7524019330ef}:c:\users\konrad\desktop\pliki na studia\semestr 6\awww\aplikacje-www2\schoolregister\schoolregister.web\wwwroot\favicon.ico
+++Microsoft.AspNetCore.Analyzers
+i:{ce6e9b59-33f6-4fdc-a511-7524019330ef}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{ce6e9b59-33f6-4fdc-a511-7524019330ef}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{ce6e9b59-33f6-4fdc-a511-7524019330ef}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.SourceGenerator.Tooling.Internal
+i:{ce6e9b59-33f6-4fdc-a511-7524019330ef}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.sourcegenerator.tooling.internal.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{ce6e9b59-33f6-4fdc-a511-7524019330ef}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore (6.0.16)
+i:{ce6e9b59-33f6-4fdc-a511-7524019330ef}:>954
+++Microsoft.EntityFrameworkCore.Tools (6.0.16)
+i:{ce6e9b59-33f6-4fdc-a511-7524019330ef}:>959
+++Microsoft.AspNetCore.App
+i:{ce6e9b59-33f6-4fdc-a511-7524019330ef}:c:\users\konrad\desktop\pliki na studia\semestr 6\awww\aplikacje-www2\schoolregister\schoolregister.web\microsoft.aspnetcore.app
+++_Layout.cshtml.css
+i:{ce6e9b59-33f6-4fdc-a511-7524019330ef}:c:\users\konrad\desktop\pliki na studia\semestr 6\awww\aplikacje-www2\schoolregister\schoolregister.web\views\shared\_layout.cshtml.css
+++appsettings.Development.json
+i:{ce6e9b59-33f6-4fdc-a511-7524019330ef}:c:\users\konrad\desktop\pliki na studia\semestr 6\awww\aplikacje-www2\schoolregister\schoolregister.web\appsettings.development.json
+++serviceDependencies.local.json
+i:{ce6e9b59-33f6-4fdc-a511-7524019330ef}:c:\users\konrad\desktop\pliki na studia\semestr 6\awww\aplikacje-www2\schoolregister\schoolregister.web\properties\servicedependencies.local.json
+++site.css
+i:{ce6e9b59-33f6-4fdc-a511-7524019330ef}:c:\users\konrad\desktop\pliki na studia\semestr 6\awww\aplikacje-www2\schoolregister\schoolregister.web\wwwroot\css\site.css
+++site.js
+i:{ce6e9b59-33f6-4fdc-a511-7524019330ef}:c:\users\konrad\desktop\pliki na studia\semestr 6\awww\aplikacje-www2\schoolregister\schoolregister.web\wwwroot\js\site.js
+++bootstrap
+i:{ce6e9b59-33f6-4fdc-a511-7524019330ef}:c:\users\konrad\desktop\pliki na studia\semestr 6\awww\aplikacje-www2\schoolregister\schoolregister.web\wwwroot\lib\bootstrap\
+++jquery
+i:{ce6e9b59-33f6-4fdc-a511-7524019330ef}:c:\users\konrad\desktop\pliki na studia\semestr 6\awww\aplikacje-www2\schoolregister\schoolregister.web\wwwroot\lib\jquery\
+++jquery-validation
+i:{ce6e9b59-33f6-4fdc-a511-7524019330ef}:c:\users\konrad\desktop\pliki na studia\semestr 6\awww\aplikacje-www2\schoolregister\schoolregister.web\wwwroot\lib\jquery-validation\
+++jquery-validation-unobtrusive
+i:{ce6e9b59-33f6-4fdc-a511-7524019330ef}:c:\users\konrad\desktop\pliki na studia\semestr 6\awww\aplikacje-www2\schoolregister\schoolregister.web\wwwroot\lib\jquery-validation-unobtrusive\
+++dist
+i:{ce6e9b59-33f6-4fdc-a511-7524019330ef}:c:\users\konrad\desktop\pliki na studia\semestr 6\awww\aplikacje-www2\schoolregister\schoolregister.web\wwwroot\lib\bootstrap\dist\
+i:{ce6e9b59-33f6-4fdc-a511-7524019330ef}:c:\users\konrad\desktop\pliki na studia\semestr 6\awww\aplikacje-www2\schoolregister\schoolregister.web\wwwroot\lib\jquery\dist\
+i:{ce6e9b59-33f6-4fdc-a511-7524019330ef}:c:\users\konrad\desktop\pliki na studia\semestr 6\awww\aplikacje-www2\schoolregister\schoolregister.web\wwwroot\lib\jquery-validation\dist\
+++LICENSE
+i:{ce6e9b59-33f6-4fdc-a511-7524019330ef}:c:\users\konrad\desktop\pliki na studia\semestr 6\awww\aplikacje-www2\schoolregister\schoolregister.web\wwwroot\lib\bootstrap\license
+++LICENSE.txt
+i:{ce6e9b59-33f6-4fdc-a511-7524019330ef}:c:\users\konrad\desktop\pliki na studia\semestr 6\awww\aplikacje-www2\schoolregister\schoolregister.web\wwwroot\lib\jquery\license.txt
+i:{ce6e9b59-33f6-4fdc-a511-7524019330ef}:c:\users\konrad\desktop\pliki na studia\semestr 6\awww\aplikacje-www2\schoolregister\schoolregister.web\wwwroot\lib\jquery-validation-unobtrusive\license.txt
+++LICENSE.md
+i:{ce6e9b59-33f6-4fdc-a511-7524019330ef}:c:\users\konrad\desktop\pliki na studia\semestr 6\awww\aplikacje-www2\schoolregister\schoolregister.web\wwwroot\lib\jquery-validation\license.md
+++jquery.validate.unobtrusive.js
+i:{ce6e9b59-33f6-4fdc-a511-7524019330ef}:c:\users\konrad\desktop\pliki na studia\semestr 6\awww\aplikacje-www2\schoolregister\schoolregister.web\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+++jquery.js
+i:{ce6e9b59-33f6-4fdc-a511-7524019330ef}:c:\users\konrad\desktop\pliki na studia\semestr 6\awww\aplikacje-www2\schoolregister\schoolregister.web\wwwroot\lib\jquery\dist\jquery.js
+++additional-methods.js
+i:{ce6e9b59-33f6-4fdc-a511-7524019330ef}:c:\users\konrad\desktop\pliki na studia\semestr 6\awww\aplikacje-www2\schoolregister\schoolregister.web\wwwroot\lib\jquery-validation\dist\additional-methods.js
+++jquery.validate.js
+i:{ce6e9b59-33f6-4fdc-a511-7524019330ef}:c:\users\konrad\desktop\pliki na studia\semestr 6\awww\aplikacje-www2\schoolregister\schoolregister.web\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+++jquery.validate.unobtrusive.min.js
+i:{ce6e9b59-33f6-4fdc-a511-7524019330ef}:c:\users\konrad\desktop\pliki na studia\semestr 6\awww\aplikacje-www2\schoolregister\schoolregister.web\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+++bootstrap.css
+i:{ce6e9b59-33f6-4fdc-a511-7524019330ef}:c:\users\konrad\desktop\pliki na studia\semestr 6\awww\aplikacje-www2\schoolregister\schoolregister.web\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+++bootstrap-grid.css
+i:{ce6e9b59-33f6-4fdc-a511-7524019330ef}:c:\users\konrad\desktop\pliki na studia\semestr 6\awww\aplikacje-www2\schoolregister\schoolregister.web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+++bootstrap-reboot.css
+i:{ce6e9b59-33f6-4fdc-a511-7524019330ef}:c:\users\konrad\desktop\pliki na studia\semestr 6\awww\aplikacje-www2\schoolregister\schoolregister.web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+++bootstrap-utilities.css
+i:{ce6e9b59-33f6-4fdc-a511-7524019330ef}:c:\users\konrad\desktop\pliki na studia\semestr 6\awww\aplikacje-www2\schoolregister\schoolregister.web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+++bootstrap.js
+i:{ce6e9b59-33f6-4fdc-a511-7524019330ef}:c:\users\konrad\desktop\pliki na studia\semestr 6\awww\aplikacje-www2\schoolregister\schoolregister.web\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+++jquery.min.js
+i:{ce6e9b59-33f6-4fdc-a511-7524019330ef}:c:\users\konrad\desktop\pliki na studia\semestr 6\awww\aplikacje-www2\schoolregister\schoolregister.web\wwwroot\lib\jquery\dist\jquery.min.js
+++additional-methods.min.js
+i:{ce6e9b59-33f6-4fdc-a511-7524019330ef}:c:\users\konrad\desktop\pliki na studia\semestr 6\awww\aplikacje-www2\schoolregister\schoolregister.web\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+++jquery.validate.min.js
+i:{ce6e9b59-33f6-4fdc-a511-7524019330ef}:c:\users\konrad\desktop\pliki na studia\semestr 6\awww\aplikacje-www2\schoolregister\schoolregister.web\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+++bootstrap.css.map
+i:{ce6e9b59-33f6-4fdc-a511-7524019330ef}:c:\users\konrad\desktop\pliki na studia\semestr 6\awww\aplikacje-www2\schoolregister\schoolregister.web\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+++bootstrap.min.css
+i:{ce6e9b59-33f6-4fdc-a511-7524019330ef}:c:\users\konrad\desktop\pliki na studia\semestr 6\awww\aplikacje-www2\schoolregister\schoolregister.web\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+++bootstrap.rtl.css
+i:{ce6e9b59-33f6-4fdc-a511-7524019330ef}:c:\users\konrad\desktop\pliki na studia\semestr 6\awww\aplikacje-www2\schoolregister\schoolregister.web\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+++bootstrap-grid.css.map
+i:{ce6e9b59-33f6-4fdc-a511-7524019330ef}:c:\users\konrad\desktop\pliki na studia\semestr 6\awww\aplikacje-www2\schoolregister\schoolregister.web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+++bootstrap-grid.min.css
+i:{ce6e9b59-33f6-4fdc-a511-7524019330ef}:c:\users\konrad\desktop\pliki na studia\semestr 6\awww\aplikacje-www2\schoolregister\schoolregister.web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+++bootstrap-grid.rtl.css
+i:{ce6e9b59-33f6-4fdc-a511-7524019330ef}:c:\users\konrad\desktop\pliki na studia\semestr 6\awww\aplikacje-www2\schoolregister\schoolregister.web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+++bootstrap-reboot.css.map
+i:{ce6e9b59-33f6-4fdc-a511-7524019330ef}:c:\users\konrad\desktop\pliki na studia\semestr 6\awww\aplikacje-www2\schoolregister\schoolregister.web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+++bootstrap-reboot.min.css
+i:{ce6e9b59-33f6-4fdc-a511-7524019330ef}:c:\users\konrad\desktop\pliki na studia\semestr 6\awww\aplikacje-www2\schoolregister\schoolregister.web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+++bootstrap-reboot.rtl.css
+i:{ce6e9b59-33f6-4fdc-a511-7524019330ef}:c:\users\konrad\desktop\pliki na studia\semestr 6\awww\aplikacje-www2\schoolregister\schoolregister.web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+++bootstrap-utilities.css.map
+i:{ce6e9b59-33f6-4fdc-a511-7524019330ef}:c:\users\konrad\desktop\pliki na studia\semestr 6\awww\aplikacje-www2\schoolregister\schoolregister.web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+++bootstrap-utilities.min.css
+i:{ce6e9b59-33f6-4fdc-a511-7524019330ef}:c:\users\konrad\desktop\pliki na studia\semestr 6\awww\aplikacje-www2\schoolregister\schoolregister.web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+++bootstrap-utilities.rtl.css
+i:{ce6e9b59-33f6-4fdc-a511-7524019330ef}:c:\users\konrad\desktop\pliki na studia\semestr 6\awww\aplikacje-www2\schoolregister\schoolregister.web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+++bootstrap.bundle.js
+i:{ce6e9b59-33f6-4fdc-a511-7524019330ef}:c:\users\konrad\desktop\pliki na studia\semestr 6\awww\aplikacje-www2\schoolregister\schoolregister.web\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+++bootstrap.esm.js
+i:{ce6e9b59-33f6-4fdc-a511-7524019330ef}:c:\users\konrad\desktop\pliki na studia\semestr 6\awww\aplikacje-www2\schoolregister\schoolregister.web\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+++bootstrap.js.map
+i:{ce6e9b59-33f6-4fdc-a511-7524019330ef}:c:\users\konrad\desktop\pliki na studia\semestr 6\awww\aplikacje-www2\schoolregister\schoolregister.web\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+++bootstrap.min.js
+i:{ce6e9b59-33f6-4fdc-a511-7524019330ef}:c:\users\konrad\desktop\pliki na studia\semestr 6\awww\aplikacje-www2\schoolregister\schoolregister.web\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+++jquery.min.map
+i:{ce6e9b59-33f6-4fdc-a511-7524019330ef}:c:\users\konrad\desktop\pliki na studia\semestr 6\awww\aplikacje-www2\schoolregister\schoolregister.web\wwwroot\lib\jquery\dist\jquery.min.map
+++bootstrap.min.css.map
+i:{ce6e9b59-33f6-4fdc-a511-7524019330ef}:c:\users\konrad\desktop\pliki na studia\semestr 6\awww\aplikacje-www2\schoolregister\schoolregister.web\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+++bootstrap.rtl.css.map
+i:{ce6e9b59-33f6-4fdc-a511-7524019330ef}:c:\users\konrad\desktop\pliki na studia\semestr 6\awww\aplikacje-www2\schoolregister\schoolregister.web\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+++bootstrap.rtl.min.css
+i:{ce6e9b59-33f6-4fdc-a511-7524019330ef}:c:\users\konrad\desktop\pliki na studia\semestr 6\awww\aplikacje-www2\schoolregister\schoolregister.web\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+++bootstrap-grid.min.css.map
+i:{ce6e9b59-33f6-4fdc-a511-7524019330ef}:c:\users\konrad\desktop\pliki na studia\semestr 6\awww\aplikacje-www2\schoolregister\schoolregister.web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+++bootstrap-grid.rtl.css.map
+i:{ce6e9b59-33f6-4fdc-a511-7524019330ef}:c:\users\konrad\desktop\pliki na studia\semestr 6\awww\aplikacje-www2\schoolregister\schoolregister.web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+++bootstrap-grid.rtl.min.css
+i:{ce6e9b59-33f6-4fdc-a511-7524019330ef}:c:\users\konrad\desktop\pliki na studia\semestr 6\awww\aplikacje-www2\schoolregister\schoolregister.web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+++bootstrap-reboot.min.css.map
+i:{ce6e9b59-33f6-4fdc-a511-7524019330ef}:c:\users\konrad\desktop\pliki na studia\semestr 6\awww\aplikacje-www2\schoolregister\schoolregister.web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+++bootstrap-reboot.rtl.css.map
+i:{ce6e9b59-33f6-4fdc-a511-7524019330ef}:c:\users\konrad\desktop\pliki na studia\semestr 6\awww\aplikacje-www2\schoolregister\schoolregister.web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+++bootstrap-reboot.rtl.min.css
+i:{ce6e9b59-33f6-4fdc-a511-7524019330ef}:c:\users\konrad\desktop\pliki na studia\semestr 6\awww\aplikacje-www2\schoolregister\schoolregister.web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+++bootstrap-utilities.min.css.map
+i:{ce6e9b59-33f6-4fdc-a511-7524019330ef}:c:\users\konrad\desktop\pliki na studia\semestr 6\awww\aplikacje-www2\schoolregister\schoolregister.web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+++bootstrap-utilities.rtl.css.map
+i:{ce6e9b59-33f6-4fdc-a511-7524019330ef}:c:\users\konrad\desktop\pliki na studia\semestr 6\awww\aplikacje-www2\schoolregister\schoolregister.web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+++bootstrap-utilities.rtl.min.css
+i:{ce6e9b59-33f6-4fdc-a511-7524019330ef}:c:\users\konrad\desktop\pliki na studia\semestr 6\awww\aplikacje-www2\schoolregister\schoolregister.web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+++bootstrap.bundle.js.map
+i:{ce6e9b59-33f6-4fdc-a511-7524019330ef}:c:\users\konrad\desktop\pliki na studia\semestr 6\awww\aplikacje-www2\schoolregister\schoolregister.web\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+++bootstrap.bundle.min.js
+i:{ce6e9b59-33f6-4fdc-a511-7524019330ef}:c:\users\konrad\desktop\pliki na studia\semestr 6\awww\aplikacje-www2\schoolregister\schoolregister.web\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+++bootstrap.esm.js.map
+i:{ce6e9b59-33f6-4fdc-a511-7524019330ef}:c:\users\konrad\desktop\pliki na studia\semestr 6\awww\aplikacje-www2\schoolregister\schoolregister.web\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+++bootstrap.esm.min.js
+i:{ce6e9b59-33f6-4fdc-a511-7524019330ef}:c:\users\konrad\desktop\pliki na studia\semestr 6\awww\aplikacje-www2\schoolregister\schoolregister.web\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+++bootstrap.min.js.map
+i:{ce6e9b59-33f6-4fdc-a511-7524019330ef}:c:\users\konrad\desktop\pliki na studia\semestr 6\awww\aplikacje-www2\schoolregister\schoolregister.web\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+++bootstrap.rtl.min.css.map
+i:{ce6e9b59-33f6-4fdc-a511-7524019330ef}:c:\users\konrad\desktop\pliki na studia\semestr 6\awww\aplikacje-www2\schoolregister\schoolregister.web\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+++bootstrap-grid.rtl.min.css.map
+i:{ce6e9b59-33f6-4fdc-a511-7524019330ef}:c:\users\konrad\desktop\pliki na studia\semestr 6\awww\aplikacje-www2\schoolregister\schoolregister.web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+++bootstrap-reboot.rtl.min.css.map
+i:{ce6e9b59-33f6-4fdc-a511-7524019330ef}:c:\users\konrad\desktop\pliki na studia\semestr 6\awww\aplikacje-www2\schoolregister\schoolregister.web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+++bootstrap-utilities.rtl.min.css.map
+i:{ce6e9b59-33f6-4fdc-a511-7524019330ef}:c:\users\konrad\desktop\pliki na studia\semestr 6\awww\aplikacje-www2\schoolregister\schoolregister.web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+++bootstrap.bundle.min.js.map
+i:{ce6e9b59-33f6-4fdc-a511-7524019330ef}:c:\users\konrad\desktop\pliki na studia\semestr 6\awww\aplikacje-www2\schoolregister\schoolregister.web\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+++bootstrap.esm.min.js.map
+i:{ce6e9b59-33f6-4fdc-a511-7524019330ef}:c:\users\konrad\desktop\pliki na studia\semestr 6\awww\aplikacje-www2\schoolregister\schoolregister.web\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
